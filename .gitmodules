@@ -1,3 +1,3 @@
-[submodule "lisa_schedule"]
-	path = lisa_schedule
+[submodule "lisa-schedule"]
+	path = lisa-schedule
 	url = https://github.com/ynilu/lisa-schedule.git
