@@ -1,3 +1,6 @@
 [submodule "lisa-schedule"]
 	path = lisa-schedule
 	url = https://github.com/ynilu/lisa-schedule.git
+[submodule "sap"]
+	path = sap
+	url = https://github.com/ynilu/SAP.git
